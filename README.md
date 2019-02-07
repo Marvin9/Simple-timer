@@ -10,4 +10,10 @@ Start app.
 ```
 npm start
 ```
+
+**OR**
+
+See demo. [here](https://yvp69vy02x.codesandbox.io/)
+
+
 :)
