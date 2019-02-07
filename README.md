@@ -1,6 +1,7 @@
 # Simple-timer
 
 Clone it.
+
 Install dependencies.
 ```
 npm install
